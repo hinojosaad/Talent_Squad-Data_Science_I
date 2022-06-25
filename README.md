@@ -21,3 +21,11 @@ Adicionalente se proporciona el archivo _space_X_test_ el cual contiene medicion
 
 
 ## Modelos utilizados y resultados
+Se utilizaron cuatro modelos distintos de la librería _sklearn_ combinados con un reescalado _Robustscaler_ obteniendo el siguiente desempeño antes y después de afinar parámetros
+
+|                            | **f1_macro** | **tuned f1_macro** |
+|----------------------------|--------------|--------------------|
+| **Random Forest**          | .7519        | .7619              |
+| **K Neighbors**            | .7682        | .7761              |
+| **Support Vector Machine** | .7501        | **.7822**          |
+| **Gradient Boosting**      | .7421        | .7621              |
