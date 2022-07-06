@@ -1,6 +1,6 @@
 # Talent Squad-Data Science I
 
-Mi solución al reto propuesto por Talent Squad en la página web https://nuwe.io/challenge/talent-squad-data-science-i, finalizado como 3 tercer lugar de la competición (informe adjunto en  el pdf nuwe-report).
+Mi solución al reto propuesto por Talent Squad en la página web https://nuwe.io/challenge/talent-squad-data-science-i, finalizado como tercer lugar de la competición (informe adjunto en  el pdf nuwe-report).
 
 ## Descripción del reto
 El reto consiste en construir un modelo predictivo a partir del conjunto de datos _space_X_train_ que contiene las mediciones de los sensores de un cohete espacial. Dichas mediciones son clasificadas en las siguientes categorías de acuerdo al estado del cohete:
